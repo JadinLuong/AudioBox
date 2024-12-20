@@ -26,7 +26,7 @@
 ## About The Project
 AudioBox is a desktop application that allows users to change their voice through various of processing effects. You can see the current list of existing effects [here](#roadmap).
 
-At the moment, the application consists of several CLI commands the allows users to navigate and work with the application in real-time (i.e. adjusting parameter values of an effect, toggling an effect on).
+At the moment, the application consists of several CLI commands that allows users to navigate and work with the application in real-time (i.e. adjusting parameter values of an effect, toggling an effect on).
 
 Future development plans include a graphical user interface (GUI) which will provide users with a more intuitive experience when interacting with the application.
 
